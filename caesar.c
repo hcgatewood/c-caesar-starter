@@ -2,7 +2,7 @@
 #include <string.h>
 
 int alphabet_size = 26;
-const char * alphabet = "nuxw vdbt ljwwxc mdwt";
+const char * alphabet = "abcdefghijklmnopqrstuvwxyz";
 
 // NOTE: preserve spaces (i.e. don't try to "decode" them)
 const char * message = "dknm ltrj bzmmns ctmj";
